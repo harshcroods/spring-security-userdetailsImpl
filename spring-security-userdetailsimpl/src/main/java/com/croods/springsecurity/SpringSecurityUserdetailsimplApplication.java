@@ -8,6 +8,7 @@ public class SpringSecurityUserdetailsimplApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityUserdetailsimplApplication.class, args);
+		System.err.println("Application Started Have a Great Day...");
 	}
 
 }
